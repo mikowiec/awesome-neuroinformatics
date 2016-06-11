@@ -19,6 +19,7 @@ Check out my [blog](https://facebook.com/mikowiec) and follow me on [Facebook](h
 
 - [Neurobiology](#neurobiology)
 - [Neural Networks](#neural-networks)
+- [Neural Simulators](#neural-simulators)
 - [Neural Pattern Recognition](#neural-pattern-recognition)
 - [Neural Behavior Models](#behavior-models)
 - [Programming Languages](#programming-languages)
@@ -40,6 +41,23 @@ Check out my [blog](https://facebook.com/mikowiec) and follow me on [Facebook](h
   - [Gepetto Simulation Engine](https://github.com/openworm/org.gepetto)
 
 
+
+## Neural Simulators
+
+- [AnimatLab](http://www.animatlab.com/GettingStarted/tabid/55/Default.aspx)
+- [BRIAN](http://briansimulator.org/) - BRIAN simulator
+- [CARLsim](http://www.socsci.uci.edu/%7Ejkrichma/CARLsim/) - CARLsim: a GPU-accelerated SNN Simulator
+- [CSIM](http://www.lsm.tugraz.at/csim/) - CSIM: A neural Circuit SIMulator
+- [mozaik](http://neuralensemble.org/mozaik/) - framework for large scale neural simulations
+- [Mvaspike](http://mvaspike.gforge.inria.fr)
+- [NCS](http://www.cse.unr.edu/brain/ncs) - NeoCortical Simulator
+- [Nengo](http://www.nengo.ca) - The Nengo Neural Simulator
+- [NEST](http://www.nest-initiative.org) - The Neural Simulation Technology Initiative
+- [NSL](http://www.neuralsimulationlanguage.org/) - NSL, Neural Simulation Language
+- [ReMoto](http://remoto.leb.usp.br/remoto/index.html) - Simulation of spinal network
+- [SpikeNet](http://sccn.ucsd.edu/%7Earno/spikenet/)
+- [Topographica](http://ioam.github.io/topographica/)
+- [XNBC](https://sourceforge.net/projects/xnbc/) 
 
 
 
